@@ -10,7 +10,7 @@ class SpringBootJenkinsDemoApplicationTests {
 
 	@Test
 	void contextLoads() {
-		assertEquals(12, SpringBootJenkinsDemoApplication.add(1, 11));
+		assertEquals(12, SpringBootJenkinsDemoApplication.add(1, 1));
 	}
 
 }
